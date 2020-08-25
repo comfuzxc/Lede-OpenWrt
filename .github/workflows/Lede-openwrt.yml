@@ -33,7 +33,7 @@ on:
 
 #点☆Star触发开始编译
   watch:
-#    types: started
+    types: started
 
 
 env:
